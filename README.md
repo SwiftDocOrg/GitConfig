@@ -1,5 +1,7 @@
 # GitConfig
 
+![CI][ci badge]
+
 A Swift library for parsing [Git configuration files](https://git-scm.com/docs/git-config).
 
 ## Requirements
@@ -83,3 +85,6 @@ MIT
 ## Contact
 
 Mattt ([@mattt](https://twitter.com/mattt))
+
+[ci]: https://github.com/SwiftDocOrg/GitConfig/actions/workflows/ci.yml
+[ci badge]: https://github.com/SwiftDocOrg/GitConfig/workflows/CI/badge.svg
